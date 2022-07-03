@@ -1,2 +1,2 @@
 # University-Projects
- Collection of my protoyype projects while studying in the university
+ Collection of my some protoype projects while completing my Bachelor's.
