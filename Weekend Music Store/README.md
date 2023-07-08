@@ -45,7 +45,8 @@ There will be two types of accounts: user and admin. The user accounts are for c
 
 At the beginning of the program, there will be three welcome pages. In the third page, clicking the 'Next' button will take us to the login page.
 
-![](https://github.com/SR-Sujon/University-Projects/blob/main/Weekend%20Music%20Store/WeekendMusicStore/imges/Image2.jpeg) ![](RackMultipart20230708-1-o92odt_html_98695b88d8804c42.jpg)
+![](https://github.com/SR-Sujon/University-Projects/blob/main/Weekend%20Music%20Store/WeekendMusicStore/imges/Image2.jpeg) ![](RackMultipart20230708-1-o92odt_html_98695b88d8804c42.jpg).
+
 _Fig: Welcome pages_
 
 In the login page, there are two tabs. The 'Sign Up' tab will let us create a new account by adding email, username, password, and our address. When the email and password is in correct format, and the username is unique, registration will be successful, and the four data will be stored in database.
